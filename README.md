@@ -5,7 +5,7 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
 ## 📚 Índice de Exercícios
 
 1. **Curso de JavaScript - Gustavo Guanabara (Curso em Vídeo)**
-- [Exercício 1 - Nome do Exercício](link_para_o_codigo)
+- [Exercício 1 - Verificador de Idade e Hora do dia](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript)
   
   ![Demonstração](link_para_o_video)
 
