@@ -8,6 +8,8 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
 - [Exercício 1 - Hora do dia e Verificador de Idade](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript)
   
   🎥 Demonstração
+  https://github.com/user-attachments/assets/1977f093-8831-4764-ad8d-155f0a4acb5d
+
   
 
 ## 🚀 Objetivo
