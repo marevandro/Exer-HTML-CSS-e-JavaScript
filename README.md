@@ -14,10 +14,24 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
   
   🎥 Demonstração
   
+  - Hora do Dia
+
   https://github.com/user-attachments/assets/1977f093-8831-4764-ad8d-155f0a4acb5d
+
+  - Verificador de Idade
 
   https://github.com/user-attachments/assets/ec6c432d-313e-4669-aaee-7e577bc96a59
 
+  - Contador
+
+  https://github.com/user-attachments/assets/9c0bb76e-0ae4-4af6-a961-6f57c1873db0
+
+  - Tabuada
+
+  https://github.com/user-attachments/assets/d0e8e749-9a53-4321-87e3-b9aaf152c9a8
+
+  - Analisador de Números
+  https://github.com/user-attachments/assets/f3c7d142-7f68-440f-b362-e148ea045c5f
   
 
 ## 🚀 Objetivo
