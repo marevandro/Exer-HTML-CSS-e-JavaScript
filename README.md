@@ -5,7 +5,11 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
 ## 📚 Índice de Exercícios
 
 1. **Curso de JavaScript - Gustavo Guanabara (Curso em Vídeo)**
-- [Exercício 1 - Hora do dia e Verificador de Idade](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript)
+- [Exercício 1 - Hora do dia](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript/Hora%20do%20dia)
+- [Exercício 2 - Verificador de Idade](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript/Verificador%20de%20Idade)
+- [Exercício 3 - Hora do dia e Verificador de Idade]()
+- [Exercício 4 - Hora do dia e Verificador de Idade]()
+
   
   🎥 Demonstração
   
