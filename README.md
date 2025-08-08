@@ -11,8 +11,11 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
 - [Exercício 4 - Tabuada](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript/Tabuada)
 - [Exercício 5 - Analisador de Números](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Curso%20Em%20Video%20-%20JavaScript/Analisador%20de%20N%C3%BAmeros)
 
+2. **Udemy**
+- [Exercício 1 - Quizz JS!](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Udemy/Quizz%20em%20JS!)
+
   
-  🎥 Demonstração
+## 🎥 Demonstração
   
   - Hora do Dia
 
@@ -31,7 +34,12 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
   https://github.com/user-attachments/assets/d0e8e749-9a53-4321-87e3-b9aaf152c9a8
 
   - Analisador de Números
+    
   https://github.com/user-attachments/assets/f3c7d142-7f68-440f-b362-e148ea045c5f
+
+  - Quizz JS
+
+  https://github.com/user-attachments/assets/6684fcb8-727b-4a8e-818a-4909d39dcf9b
   
 
 ## 🚀 Objetivo
