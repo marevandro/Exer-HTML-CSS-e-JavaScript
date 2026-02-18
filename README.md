@@ -15,7 +15,7 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
 - [Exercício 1 - Quizz JS!](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Udemy/Quizz%20em%20JS!)
 
 3. **Programador BR**
-- [Exercício 2 - Quizz JS!](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Udemy/Quizz%20em%20JS!)
+- [Exercício 2 - Quizz JS!](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Programador%20BR/Projeto%20Jogo%20Da%20Velha)
 
   
 ## 🎥 Demonstração
