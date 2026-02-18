@@ -14,6 +14,9 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
 2. **Udemy**
 - [Exercício 1 - Quizz JS!](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Udemy/Quizz%20em%20JS!)
 
+3. **Programador BR**
+- [Exercício 2 - Quizz JS!](https://github.com/marevandro/Exer-HTML-CSS-e-JavaScript/tree/master/Udemy/Quizz%20em%20JS!)
+
   
 ## 🎥 Demonstração
   
@@ -40,6 +43,10 @@ Este repositório foi criado para armazenar alguns exercícios propostos em dive
   - Quizz JS
 
   https://github.com/user-attachments/assets/6684fcb8-727b-4a8e-818a-4909d39dcf9b
+  
+  - Jogo da Velha JS
+
+  https://github.com/user-attachments/assets/ccc70926-0570-4daf-9d42-2d64b8a0110f
   
 
 ## 🚀 Objetivo
